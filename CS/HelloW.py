@@ -1,3 +1,6 @@
 # This program prints Hello, world!
-print('Hello, W!')
+def hello_world(my_string):
+    print('Hello, ' + my_string + "!")
+
+hello_world("Vishal Agrawal")
 # End File
